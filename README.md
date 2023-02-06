@@ -29,6 +29,3 @@ https://olynnc888.github.io/OliviaCummingsPortfolio/
 
 ## Link to Repository 
 https://github.com/olynnc888/OliviaCummingsPortfolio.git
-
-
-
